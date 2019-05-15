@@ -1,0 +1,2 @@
+# stock_app
+Ohjelmistokehityksen teknologioita kurssiprojekti
