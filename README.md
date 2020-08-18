@@ -1,2 +1,2 @@
 # stock_app
-Ohjelmistokehityksen teknologioita kurssiprojekti
+Project for a school course
